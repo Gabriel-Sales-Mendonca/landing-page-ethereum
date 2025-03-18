@@ -1,9 +1,8 @@
 # Landing Page - Ethereum
 # Sobre o projeto
 
-<a href="https://exemplo.com" target="_blank">https://gabrielsales.netlify.app/otherpages/ethereum/ethereum</a>
+[https://gabrielsales.netlify.app/otherpages/ethereum/ethereum](https://gabrielsales.netlify.app/otherpages/ethereum/ethereum)
 
- 
 Fiz este site para demonstrar minhas habilidades com **HTML** e **CSS** puro e **responsividade**.  
 
 Implementei um **MENU DE NAVEGAÇÃO RESPONSIVO:** em dispositivos desktop o menu é exibido horizontalmente no topo, enquanto em dispositivos móveis, ele se transforma em um ícone de menu (hambúrguer) posicionado no canto superior, que expande ao ser clicado pelo usuário.  
